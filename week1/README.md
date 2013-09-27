@@ -8,4 +8,8 @@
 - Declaring variables.
 - Understanding the concept of 1 vs '1'
 - Understanding the concept of parsing strings to get the actual number.
+ 
+
+![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week1/map.png "Class Mind Map")
+
 
