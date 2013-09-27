@@ -60,7 +60,8 @@ namespace guess_the_number
 				
 				if ( number == guess ) 
 				{
-					Console.WriteLine("Good Guess");		
+					Console.WriteLine("Good Guess");	
+					Console.WriteLine("you finished in : " + (10 - tries) + " tries");
 					return;
 				}
 				else if ( guess > number )
