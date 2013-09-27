@@ -19,7 +19,7 @@
 guess the number.
 simple DnD.
 
-##Things mentiond but not fully explaind
+##Things mentioned but not fully explained
 - methods.
 - Random class.
 - static.

@@ -11,16 +11,12 @@
 6. read the amount of tips to leave.
 7 print each of your friends name , and total costs.
 
-###total cost = meal cost + ( tax % of the meal cost ) + (service + tips) divided by number of friends.
+total cost = meal cost + ( tax % of the meal cost ) + (service + tips) divided by number of friends.
 
 
-
-Write a Tipper program where the user enters a restaurant bill total. The program should then display
-two amounts: a 15 percent tip and a 20 percent tip.
-
-
-4. Write a Car Salesman program where the user enters the base price of a carThe program should add on a bunch of extra fees : 
-tax, dealer prep, and destination charge. Make tax and
-license a percent of the base price. The other fees should be set values. Display the actual price of the
-car once all the extras are applied.
+### Do you have a lucky computer :
+write a program that generates 100 random number ( from  1 to 100 ) and calculates the average. this % is how lucky your computer. 
+each of you must submit with his code:
+- His lucky % with the code. 
+- His random numbers. ** you can use the >> command line trick to save to files for now **. 
 
