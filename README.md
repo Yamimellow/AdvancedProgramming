@@ -16,3 +16,7 @@ Advanced Programming examples files used in class .
 to submit go to :
 http://dbinbox.com/advanced_programing
 and upload your zip file.
+
+
+for help contact me : 
+abdallah 'dot' hodieb 'at' gmail 'dot' com 
