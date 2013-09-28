@@ -6,22 +6,14 @@
 ##Conditions
 - If , if else , else.
 - Diffrence between & and &&.
-- Switch.
+- Password Comparison Program.
 
-##loops
-- for , while , do while .
 
-##arrays
-- basic arrays.
-- args 
-
-## Games 
-guess the number.
-simple DnD.
+- How to generate a random number.
 
 ##Things mentioned but not fully explained
 - methods.
-- Random class.
+- Random class. 
 - static.
 
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week2/map.png "Class Mind Map")
