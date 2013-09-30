@@ -2,7 +2,7 @@
 
 ## Resturant Calculator :
 1. reads the names of friends. [ 4 friends ].
-2. read meal name , and coast for each friend. 
+2. read meal name , and cost for each friend. 
 3. read tax %.
 4. read service costs.
 5. read the amount of tips to leave.
