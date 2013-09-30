@@ -2,11 +2,12 @@
 
 ## Resturant Calculator :
 1. reads the names of friends. [ 4 friends ].
-2. read meal coast for each friend. 
-3. read service costs.
-4. read the amount of tips to leave.
-5. print each of your friends name , and total costs.
-6. write values you used ("friends names , prices") and the result of the calculation in a text file , and send it with the code.
+2. read meal name , and coast for each friend. 
+3. read tax %.
+4. read service costs.
+5. read the amount of tips to leave.
+6. print each of your friends name , and total costs.
+7. write values you used ("friends names , prices") and the result of the calculation in a text file , and send it with the code.
 
 **use floats for all prices**
 
