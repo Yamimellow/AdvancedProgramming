@@ -210,3 +210,23 @@ float avg = sum / 100; // int / int will result an int
 ###-Ve Points
 - Resturant Cal:
     - possible copying !
+    - 
+
+##Envoy
+###+Ve Points
+- Resturant Cal:
+    -  use of loops
+    -  correct data types
+    -  Parsing
+    -  the use of {0} formating in Console.WriteLine()
+
+- How Lucky is your computer:
+    - Division by float 
+
+###-Ve Points
+- Resturant Cal:
+    - Equation not correct. the (service + tipes) should be divided by the number of friends (4)
+
+- How Lucky is your computer:
+    - Results not attached.
+
