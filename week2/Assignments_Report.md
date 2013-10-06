@@ -210,7 +210,7 @@ float avg = sum / 100; // int / int will result an int
 ###-Ve Points
 - Resturant Cal:
     - possible copying !
-    - 
+
 
 ##Envoy
 ###+Ve Points
