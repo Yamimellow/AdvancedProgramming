@@ -130,7 +130,7 @@ float avg = sum / 100; // int / int will result an int
 - How Lucky is your computer :
     - initicalization insidee the loop totaly wrong.
     - there isn't even a division , use of % is very illogical. - and even calling it a pressing mistake makes it worse , you need to check your code and run it.
-    - 
+
 - Only one assignment submited.
 - Assignment rules not followed.
 
