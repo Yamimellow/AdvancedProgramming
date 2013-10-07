@@ -10,13 +10,8 @@
 - while loop.
 - do while.
 
-##Arrays
-- Declaration.
-- args.
-
-##CMD
-- opening / running application from cmd.
-- writing the output of the application into a text file.
+##Games
+- Guessing the Number Game.
 
 ##Things mentioned but not fully explained
 - methods.
