@@ -27,6 +27,15 @@
 Random r = new Random();
 int x = r.Next(1,101); // random number from 1 to 100
 
+//arrays
+
+int[] a = new [10];
+
+//two dimension arrays
+
+int[,] a_2d = new [10,10];
+
+
 ```
 
 	
