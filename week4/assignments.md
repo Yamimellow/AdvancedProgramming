@@ -18,7 +18,8 @@
 - [Login to ProjectEuler][1]
 - [Solve the first problem][2] using C#
 - you can choose to submit any other problm from any other problem solving site. **email confirmation required**.
-
+- submit the code used to solve the problem.
+- submit a screen shot of your page with the problem solved.
 
 ##List of my favourit Problem solving sites:
 - [Project Euler][1]  **no code submission required**.
