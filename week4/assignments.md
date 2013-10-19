@@ -8,7 +8,7 @@
 	- Personal Topic.
 
 - Write the code creating the classes.
-- Chart the UML representation of the classes. **submit them as pdf/images no links will be accepted**.
+- Chart the UML representation of the classes. **submit them as pdf / images ,no links will be accepted**.
 - *Hint* You can use [LucidChart][3] to create your charts online for free.
 
 
@@ -17,11 +17,11 @@
 ##Mr Problem Solver
 - [Login to ProjectEuler][1]
 - [Solve the first problem][2] using C#
-- you can choose to submit any other problm from any other problem solving site.**email confirmation required**.
+- you can choose to submit any other problm from any other problem solving site. **email confirmation required**.
 
 
 ##List of my favourit Problem solving sites:
-- [Project Euler][1] **no code submission required**.
+- [Project Euler][1]  **no code submission required**.
 - [Google Code Jam][4] **no code submission required**.
 - [SPOJ][5] 
 - [USACO][8]  **C/C++/Java/Pascal only**.
