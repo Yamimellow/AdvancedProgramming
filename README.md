@@ -3,11 +3,16 @@
 Advanced Programming examples files used in class .
 
 
+###[To submit anonymous suggestions/complaints][1]
+please don't hesitate to suggest anything you want, totally anonymous.
 
-### Assignments are now mandatory , you will lose marks if u don't submit them.
-### Each assignment solution will be published after the deadline . no submissions will be accepted after that.
 
-##Assignment Submissions :
+
+
+#### Assignments are now mandatory , you will lose marks if u don't submit them.
+#### Each assignment solution will be published after the deadline . no submissions will be accepted after that.
+
+##Assignment Submission Rules :
 - Put each assignment in a folder with its name , with all the files it needs to work.
 - Put them in a folder with your name + the weeks number example : abdallah_week_1
 - Put a text file in the folder and within it write your full name ,  id  and email.
@@ -27,3 +32,4 @@ abdallah 'dot' hodieb 'at' gmail 'dot' com
 
 
 
+[1]: https://docs.google.com/forms/d/1j2KjST47SQcUPX7upCgp4YfHb0TbnDo9byv5yPD0BL0/viewform
