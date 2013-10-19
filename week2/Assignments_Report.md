@@ -1,4 +1,4 @@
-#Assignments Submited - Week 2
+#Assignments Submitted - Week 2
 This is a report of your mistakes and correct points you did in your assignments , each with the Code Name assigned to each of you. 
 
 
@@ -12,14 +12,14 @@ float avg = sum / 100; // int / int will result an int
 
 ##Glyph
 ####+Ve Points
-- Resturant Cal : 
+- Restaurant Cal : 
 	- Use of arrays.
-	- Good use of for loop in the end calculaton.
+	- Good use of for loop in the end calculation.
 
-- Followed the rules of submition correctly.
+- Followed the rules of submission correctly.
 
 ###-Ve Points
-- Resturant Cal :
+- Restaurant Cal :
 	- Didn't read meal name.
 	- Didn't read tax %.
 - How lucky is your computer : 
@@ -27,8 +27,8 @@ float avg = sum / 100; // int / int will result an int
 
 ##Turbine
 ###-Ve Points :
-- no assignment was submited at all . two usless files.
-- didn't even look at the submisson rules.
+- no assignment was submitted at all . two useless files.
+- didn't even look at the submission rules.
 - forgot to put in his email.
 
 
@@ -37,18 +37,18 @@ float avg = sum / 100; // int / int will result an int
 ##Jetison
 ###+Ve Points:
 
-- Resturant Cal:
-	- customized tip is a pluse - though illogical.
-	- calculating total cost for all - also usless its the thing written on the reciept already :) 
+- Restaurant Cal:
+	- customized tip is a plus - though illogical.
+	- calculating total cost for all - also useless its the thing written on the receipt already :) 
 	- the use of writeline,readline to halt the program.
 
 - How lucky is your computer:
 	- the use of writeline,readline to halt the program.
 
 ###-Ve Points:
-- Resturant Cal:
-	- The Hard coded tax % , you should have read it , its diffrent from one resturant to another.
-	- customized tip is a pluse - though illogical.
+- Restaurant Cal:
+	- The Hard coded tax % , you should have read it , its different from one restaurant to another.
+	- customized tip is a plus - though illogical.
 	- Calculating total tax ?
 	- forgot to calculate service costs
 	- very bad looking code :D
@@ -63,11 +63,11 @@ float avg = sum / 100; // int / int will result an int
 
 ##Crossfire
 ###+ve points :
-- Resturant Cal:
+- Restaurant Cal:
 	- the use of for loop.
 
 ###-ve Points:
-- Resturant Cal:
+- Restaurant Cal:
 	- the tax is a % of the meal not a constant .
 	- the service and tips are the ones to be divided by 4
 
@@ -83,7 +83,7 @@ float avg = sum / 100; // int / int will result an int
 ##Aftermath
 ###+Ve Points:
 
-- Resturant Cal:
+- Restaurant Cal:
 	- Use of class to encapsulate.
 	- use of arrays
 	- use of arrays of objects
@@ -96,8 +96,8 @@ float avg = sum / 100; // int / int will result an int
 
 ###-Ve Points:
 
-- Resturant Cal:
-	- uninitialized objects in an array - thats a tough one its missed by pros some times :D
+- Restaurant Cal:
+	- uninitialized objects in an array - thats a tough one it's missed by pros sometimes :D
 	- Doesn't print total costs.
 	- forgot to read tips
 
@@ -116,8 +116,8 @@ float avg = sum / 100; // int / int will result an int
 - How lucky is your Computer:
 	- division by int problem.
 
-- Results not submited
-- other assignment isn't submited.
+- Results not submitted
+- other assignment isn't submitted.
 - didn't follow the rules of assignment folder naming.
 
 ##Dryad 
@@ -128,42 +128,42 @@ float avg = sum / 100; // int / int will result an int
 
 ###-Ve Points:
 - How Lucky is your computer :
-    - initicalization insidee the loop totaly wrong.
+    - initialization inside the loop totaly wrong.
     - there isn't even a division , use of % is very illogical. - and even calling it a pressing mistake makes it worse , you need to check your code and run it.
 
-- Only one assignment submited.
+- Only one assignment submitted.
 - Assignment rules not followed.
 
 
 ##Torrent
 ###+Ve Points:
-- Resturant Cal:
-    - The Use of 2 dimintonal arrays.
+- Restaurant Cal:
+    - The Use of 2 dimensional arrays.
     - correct equation for total cost.
 - submission rules are followed correctly.
 - attached results.
 
 
 ###-Ve Points:
-- Resturant Cal:
+- Restaurant Cal:
     - Reading cost before names is illogical.
     - Code doesn't Work.
-    - Wierd project structure. - folders inside folders.
-    - Not parsing Cost,tax,service. - couldnt use parse even after reading the codes.
-    - didn't print names insetd of person[0] , since i read the names , its only logical that i will print them in the end.1
+    - Weird project structure. - folders inside folders.
+    - Not parsing Cost,tax,service. - couldn't use parse even after reading the codes.
+    - didn't print names instead of person[0] , since i read the names , its only logical that i will print them in the end.1
     - costs are only 3 while 4 persons.
     
 - How lucky is your computer:
     - division by int , though defined as a float.
-    - the use of usless var x.
-    - surprized when the % change every time. - it is supposed to be random  , its only logical that it changes every time , if it didn't it would be wrong.
+    - the use of useless var x.
+    - surprised when the % change every time. - it is supposed to be random  , its only logical that it changes every time , if it didn't it would be wrong.
     - the need to initialize sum to 0;
 
 
 ##Ball Lightning
 
 ###+Ve Points
-- Resturant Cal:
+- Restaurant Cal:
 - How Lucky is your computer: 
     - division by float 
 - Folder Naming rules followed.
@@ -171,29 +171,29 @@ float avg = sum / 100; // int / int will result an int
 - Use of for loops
 
 ###-Ve Points
-- Resturant Cal:
+- Restaurant Cal:
     - The code looks bad 
     - printing what was just inputed.
     - The application doesn't do anything ! just reads and prints what it read.
 - How Lucky is your computer:
-    - geberating only one random number not 100
+    - generating only one random number not 100
 
 
 ##Cobalt
 ###+Ve Points
-- Resturant Cal:
+- Restaurant Cal:
     -  use of classes
     -  correct equation
 - How Lucky is your computer:
     - Division by float 
 
 ###-Ve Points
-- Resturant Cal:
-    - Wierd use of classes. - class inside a class is not a good idea unless it has a specific need.
+- Restaurant Cal:
+    - Weird use of classes. - class inside a class is not a good idea unless it has a specific need.
     - class members are private
     - setters return ! which is wrong.
     - setters declaration is wrong.
-    - The application doesnt work
+    - The application doesn't work
     - method calls need ()
 - How Lucky is your computer:
     - Results not attached.
@@ -203,18 +203,18 @@ float avg = sum / 100; // int / int will result an int
 
 ##Warhead
 ###-Ve Points
-- Resturant Cal:
+- Restaurant Cal:
     - possible copying !
 
 ##Lodestar
 ###-Ve Points
-- Resturant Cal:
+- Restaurant Cal:
     - possible copying !
 
 
 ##Envoy
 ###+Ve Points
-- Resturant Cal:
+- Restaurant Cal:
     -  use of loops
     -  correct data types
     -  Parsing
@@ -224,9 +224,95 @@ float avg = sum / 100; // int / int will result an int
     - Division by float 
 
 ###-Ve Points
-- Resturant Cal:
-    - Equation not correct. the (service + tipes) should be divided by the number of friends (4)
+- Restaurant Cal:
+    - Equation not correct. the (service + tips) should be divided by the number of friends (4)
 
 - How Lucky is your computer:
     - Results not attached.
+
+
+##Squall
+###+Ve Points
+- Restaurant Cal:
+    -  Great Names in test cases (TMNT Fan) **COWABUNGA** :D
+    -  Use of classes
+    -  Parsing
+    -  the use of {0} formating in Console.WriteLine()
+    
+
+- How Lucky is your computer:
+    - Division by float 
+    
+
+###-Ve Points
+- Restaurant Cal: 
+    - Code looks bad for the eye. maybee leave spaces and empty lines every once in a while. also u could have used arrays and loops.
+    - personalized service is illogical . service costs are divided by all of them.
+    - personalized tips are impractical , in real life no one decides his tips separately.
+
+- How Lucky is your computer:
+    - the 101 in the for loop , one extra step, counting from 0 to 100  will make 101 iterations.
+
+
+##Rampant
+
+###+Ve Points
+- Restaurant Cal:
+    -  Good use of loops
+    -  correct data types used.
+    -  Parsing
+    -  correct equation.
+    
+
+- How Lucky is your computer:
+    - Division by float 
+    - Use of console.readline().
+     
+
+###-Ve Points
+- Restaurant Cal: 
+    - reading service cost ,tax and tips 4 times is wrong.
+
+- you sent me 8 files  , please compress them only to one file , and don't forget to add your name in it before compression !
+- Please don't use WordPad again :D , stick to notepad , rtf format is bad. 
+
+
+
+##Slurry
+
+###+Ve Points
+- Restaurant Cal:
+    -  Good use of loops
+    -  correct data types used.
+    -  Parsing
+
+- How Lucky is your computer:
+    - Division by float 
+    - Use of {} in console.writeline.
+     
+
+###-Ve Points
+- Restaurant Cal: 
+    - reading service cost ,tax and tips 4 times is wrong.
+    - Equation of total is wrong you must multiply the tax % to the cost.
+
+
+
+##Meridian
+
+###+Ve Points
+- Restaurant Cal:
+    -  Code looks good , good formating though u can make it better using loops and arrays.
+    -  correct data types used.
+    -  Parsing
+    -  Equation Correct.
+
+
+###-Ve Points
+- Lucky is your computer:
+    - Division by int . even after correction , your late assignment isn't correct. !
+
+- You sent me 2 separate files , please combine them the next time.     
+
+
 
