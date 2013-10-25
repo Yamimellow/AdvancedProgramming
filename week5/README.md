@@ -25,7 +25,8 @@
 
 ##Things mentioned but not fully explained
 - Properties.
-
+- Methods
+- Access Modifiers
 
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week5/map.png "Class Mind Map")
 
