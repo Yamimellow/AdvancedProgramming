@@ -58,7 +58,13 @@ This is a report of your mistakes and correct points you did in your assignments
     - repeating trials-- 3 times , you could have put it in the last line of the loop outside all of the if condtions.
     
 - Card Shuffler 
-    - Not submited .
+    - Not submi
+
+
+----------
+
+
+ted .
 
 
 ##Lattice
@@ -78,3 +84,42 @@ This is a report of your mistakes and correct points you did in your assignments
     - u forgot the line to reset the cards[r] = "0" after you put it for a player.
     - looping for a random time is a bad idea , not noticable for small ranges (1,52)
 - Naming the folder week 2 !
+
+
+##Glyph
+
+###+Ve
+
+- Card Shuffler 
+    - Correctly done.
+    - use of int.ToString()
+    - 
+
+###-Ve
+- Reverse Guessing Game
+    - Use of random can never garuantee that the he solves it in less than 10 steps.
+    - while trying the computer chose the same numbers twice. that's because incase of big , it uses the number as the min bound , it should be numb+1.
+   
+
+        ```
+if (compare == "big") {numb1 = numb;
+numb = r.Next(numb1, numb2 +1);
+ } ```
+ 
+- Card Shuffler 
+    - Depending on Random is not the best option.
+
+
+##Crossfire
+
+###+Ve
+- Reverse Guessing Game
+    - 
+- Card Shuffler 
+    -
+
+###-Ve
+- Reverse Guessing Game
+    - Not working correctly !
+- Card Shuffler 
+    - Not Working Correctly.
