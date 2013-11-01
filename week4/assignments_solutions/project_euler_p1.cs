@@ -1,8 +1,3 @@
-//Congrats You Broke The Code.
-//Please tell me your name to get full marks ( No Kidding i swear ).
-//you will have to prove and show me how you broke it.
-
-
 
 using System;
 
