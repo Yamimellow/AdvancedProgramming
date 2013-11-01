@@ -1,4 +1,4 @@
-#Week 4
+#Week 5
 
 #### [Please Submit Feedback][2]
 
@@ -8,17 +8,12 @@
 - Why use classes
 - Declare Classes
 - Class members (fields , properties , methods)
-- UML ?
 - Use of oop in real life (SDKs ?)
 
 ##Visual Studio
 - Project Format
 - Code Location
 - Debugging
-
-##CMD Tricks
-
-##Compilation Outputs
 
 ##Quiz
 
