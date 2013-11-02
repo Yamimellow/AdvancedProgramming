@@ -1,26 +1,32 @@
-#Assignments Week4
+#Assignments Week6
 
-## Classifiy the world 
-- Create 4 classes related to : 
-	- Cars.
-	- Devices.
-	- Animals.
-	- Personal Topic.
+##City Class
+- Create a class **City**
+- Properties :
+	- Name (float)
+	- Longitude (int)
+	- Latitude (int)
 
-- Write the code creating the classes , atleast 2 fields and two methods. 
-- Chart the UML representation of the classes. **submit them as pdf / images ,no links will be accepted**.
-- **Hint** You can use [LucidChart][3] to create your charts online for free.
+- Methods :
+	- Distance From other City.
+
+- Create a DLL containing those classes. attach the DLL with your code.(use the namespace "Locations" )
+
+##Use DLL
+- Use the dll from the previous question.
+- Read number (n) of cities from user.
+- Creat n cities and read their (name,lng,lat) from user.
+- Read city name (from).
+- Read city name (to).
+- print the distance between from and to. **using the method u created**.
 
 
+##Methods
 
-##Mr Problem Solver 2
-- [Login to ProjectEuler][1]
-- [Solve the Second problem][2] using C#
-- you can choose to submit any other problm from any other problem solving site. **email confirmation required**.
-- submit the code used to solve the problem.
-- submit a screen shot of your page with the problem solved.
+- Create a method to calculate the number of digits in a number 
+example : 245    > 3 digits.
+		  123456 > 6 digits.
 
-
-[1]:http://projecteuler.net
-[2]:http://projecteuler.net/problem=2
-[3]:https://www.lucidchart.com
+- Create a method to retrive the nth digit of a number 
+example : 474  , 2 > 7
+   		  1357 , 4 > 1
