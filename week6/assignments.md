@@ -8,17 +8,21 @@
 	- Latitude (int)
 
 - Methods :
-	- Distance From other City.
+	- Distance From other City :
+		- Taks another city as a pramater
+		- returns the diffrence of long + diffrence of lat
+		- c1.distance(c2) = (c1.lat - c2.lat + c1.long - c2.long);
 
-- Create a DLL containing those classes. attach the DLL with your code.(use the namespace "Locations" )
+##Circle Class
+- Creat A class **Circle**
+- Properties:
+	- Radius float 
 
-##Use DLL
-- Use the dll from the previous question.
-- Read number (n) of cities from user.
-- Creat n cities and read their (name,lng,lat) from user.
-- Read city name (from).
-- Read city name (to).
-- print the distance between from and to. **using the method u created**.
+- Methods :
+	- Area 
+	- Prem
+	- use PI = 3.14
+
 
 
 ##Methods
