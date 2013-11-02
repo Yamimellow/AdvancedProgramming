@@ -26,6 +26,7 @@
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week6/adding_dll/step1.png "Step 1")
 
 2. Browse and choose the .dll file 
+
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week6/adding_dll/step2.png "Step 2")
 
 
