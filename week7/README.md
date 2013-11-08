@@ -2,7 +2,7 @@
 
 #### [Please Submit Feedback][2]
 
-### [Sheet Added] [1] 
+### [Sheet Added][1] 
 
 ##Classes and OOP World
 - Constructors.
