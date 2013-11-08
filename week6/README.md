@@ -6,11 +6,11 @@
 ##Classes and OOP World
 - Classes
 - Methods
-- Inhertance
 
 ##Access Modifiers
 - Private
 - Public
+- Protected
 
 
 
