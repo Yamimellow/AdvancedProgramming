@@ -3,7 +3,7 @@
 ##City Class
 - Create a class **City**
 - Properties :
-	- Name (float)
+	- Name (String)
 	- Longitude (int)
 	- Latitude (int)
 
