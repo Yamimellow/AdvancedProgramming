@@ -1,1 +1,75 @@
-ŒCø¦µØx`ÉÁ$!pÿF¹óÆ<ÄÂMr8§÷UÒYYÑ@BÀtñ}‡ğ	Ğ‘‹ÏâV ™èXkZ”ß ´e4éXáŠÇñ+>¾¤¯±Klu¬œ3…Z€Ôó”åFDáNKh±,'<A?ÅAUä¼vKÎN`%r‰Ö&Ë’H¦Çª)h s˜è'ù6§8Ş`Õ^Å›~ÿÁméaçò¯‰›u˜@é C6smä@7‹“”_”Ã^'°/ò>{}%Ø¿;ª•ÆZ>ilTñö1¦É%Í’gë’HÄË:ì"MR7ÌNÊÕ„ Ô¨H£m³d‘À›ˆF'i>ö_¼q@§£ˆ"‘R¶ßäÀÛ¨!›»p¼nTRĞÖ8ã€û~x³{D’èg¬İ$6®¶È?0!±Íã†¯OşcøüüÊ¦Ø4fİÒè}f§Ô†µ¾õ$¤L½Æ$JñneH»[åZ²Ü‚ò°ûÙÍ7_À{BØš8WîZâ0_ø*Š6Í{ø‡É¤yôôSfØ>õ¬7Z‰ç7üÕùA;‘¸ŞĞ	GsáM²•ê¤*?_a[aÅ›àÉDíÈşìÜŞÆ0É4g6ğ¯´ÎıÉp¥‘—4¬÷ÓµäøyÕZYæQ:§‘È
+using System;
+
+namespace RTS_Units
+{
+	
+	class City
+	{
+		public int Long{get;set;}
+		public int Lat {get;set;}
+		public string Name {get;set;}
+		
+		public int Distance(City c)
+		{
+			return (Long - c.Long + Lat-c.Lat);
+		}
+	}
+	
+	class Circle
+	{
+		public float Radius{get;set;}
+		
+		public float Area()
+		{
+			return Radius * Radius * 3.14f;
+		}
+		
+		public float Perimeter()
+		{
+			return 2 * 3.14f * Radius;
+		}
+	}
+	
+	class Numbers
+	{
+		public int digits_num(int n)
+		{
+			int count = 1;
+			while (n/10 != 0)
+			{
+				count ++;
+				n/=10;
+			}
+			return count;
+		}
+		
+		public int nth_digit(int number,int n)
+		{
+			for(int i = 1 ; i < n; i++) 
+			{
+				number /= 10;
+			}
+			
+			return number %10;
+		}
+	}
+	
+	class MainClass
+	{
+		public static void Main (string[] args)
+		{
+			
+			Numbers n = new Numbers();
+			Console.WriteLine(n.digits_num(12345));
+			Console.WriteLine(n.digits_num(589));
+			Console.WriteLine(n.digits_num(3134));
+			
+			Console.WriteLine(n.nth_digit(12345,3));
+			Console.WriteLine(n.nth_digit(64235,2));
+			Console.WriteLine(n.nth_digit(9324324,7));
+			Console.WriteLine(n.nth_digit(3435,7));
+			
+			
+		}
+	}
+}
