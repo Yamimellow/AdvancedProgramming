@@ -1,0 +1,5 @@
+C:\Users\The Night Phoenix\AppData\Local\Temporary Projects\DLL_TEST\bin\Release\DLL_TEST.dll
+C:\Users\The Night Phoenix\AppData\Local\Temporary Projects\DLL_TEST\bin\Release\DLL_TEST.pdb
+C:\Users\The Night Phoenix\AppData\Local\Temporary Projects\DLL_TEST\obj\Release\ResolveAssemblyReference.cache
+C:\Users\The Night Phoenix\AppData\Local\Temporary Projects\DLL_TEST\obj\Release\DLL_TEST.dll
+C:\Users\The Night Phoenix\AppData\Local\Temporary Projects\DLL_TEST\obj\Release\DLL_TEST.pdb
