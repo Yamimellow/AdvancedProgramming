@@ -1,40 +1,20 @@
-#Week 9
+#Week 8
 
 #### [Please Submit Feedback][2]
 
 
-##Assignment for next time is mandidtory. !
+##Polymorphism P1
+- What is it ?
+- Generalization / Extendabilty.
+- Overriding.
 
-##Creating Dlls
-- What are dll files ?
-- Why we use them.
-- How to create them.
-- How to use them in project.
+##Access Modifiers
+- abstract
 
-
-![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week9/DLL_1.png "Create a dll.")
-
-
-![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week9/build_dll.png "Create a dll.")
-
-
-![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week9/use_dll.png "Create a dll.")
-
-
-![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week9/add_refrence.png "Create a dll.")
-
-
-![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week9/refrences_updated.png "Create a dll.")
+##Hello World GUI 
 
 
 
-
-
-##Calculator
-- GUI , Basic logic. 
-
-
-
-![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week9/map.png "Class Mind Map")
+![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week8/map.png "Class Mind Map")
 
 [2]:https://docs.google.com/forms/d/1-oPlwu_OfXpBWdaN5_UEjuR3cY6MvtqJj_6AtgvwSWc
