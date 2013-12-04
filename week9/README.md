@@ -3,7 +3,7 @@
 #### [Please Submit Feedback][2]
 
 
-##Assignment for next time is mandidtory. !
+##Assignment for next time is mandatory. !
 
 ##Creating Dlls
 - What are dll files ?
