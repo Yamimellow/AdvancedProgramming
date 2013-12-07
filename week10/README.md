@@ -3,10 +3,10 @@
 #### [Please Submit Feedback][2]
 
 
-##Our Class is participating in [**CSEdWeek**][1] , [code.org][7]
-
-
 ![alt text](http://csedweek.org/images/CSEdWeek-bannertmb.png "CSEdWeek")
+
+###Our Class is participating in [CSEdWeek][1] , [code.org][7]
+
 
 
 

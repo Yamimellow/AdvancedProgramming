@@ -1,4 +1,4 @@
-#Assignments Week 9
+#Assignments Week 10
 
 
 
@@ -7,7 +7,7 @@
 ##Optional :
 Participate in any way during the CSEDWeek. [ play , code , promote , share , screenshot.].
 
-[**CSEdWeek**][1] , [code.org][7]
+[CSEdWeek][1] , [code.org][7]
 
 
 [1]:http://csedweek.org/promote
