@@ -6,6 +6,7 @@
 
 ![alt text](http://csedweek.org/images/CSEdWeek-bannertmb.png "CSEdWeek")
 ###Our Class is participating in [CSEdWeek][1] , [code.org][7]
+[light-bot game][8]
 
 
 
@@ -15,8 +16,10 @@
 - What is SOAP (simple object access protocol) [theory]
 - SOAP vs REST (Representational state transfer) [theory]
 - How to add a web refrecne. [practical]
-- [**Extra Reading** SOAP vs REST.][3]
 - [Extra web refrences][4]
+
+- [**Extra Reading** SOAP vs REST.][3]
+
 
 
 ##Recap on Data Structures[theory]
@@ -50,3 +53,5 @@
 [5]:http://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
 
 [7]:http://code.org/
+
+[8]:http://light-bot.com/hocflash.html
