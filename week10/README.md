@@ -3,8 +3,8 @@
 #### [Please Submit Feedback][2]
 
 
-![alt text](http://csedweek.org/images/CSEdWeek-bannertmb.png "CSEdWeek")
 
+![alt text](http://csedweek.org/images/CSEdWeek-bannertmb.png "CSEdWeek")
 ###Our Class is participating in [CSEdWeek][1] , [code.org][7]
 
 
