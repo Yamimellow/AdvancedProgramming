@@ -3,7 +3,13 @@
 #### [Please Submit Feedback][2]
 
 
-##Assignment for next time is mandatory. !
+##Our Class is participating in [**CSEdWeek**][1] , [code.org][7]
+
+
+![alt text](http://csedweek.org/images/CSEdWeek-bannertmb.png "CSEdWeek")
+
+
+
 
 ##Web Refrences
 - What is SOAP (simple object access protocol) [theory]
@@ -31,7 +37,9 @@
 	- Dictionary
 
 
-![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week9/map.png "Class Mind Map")
+![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/map.png "Class Mind Map")
+
+[1]:http://csedweek.org/promote
 
 [2]:https://docs.google.com/forms/d/1-oPlwu_OfXpBWdaN5_UEjuR3cY6MvtqJj_6AtgvwSWc
 
@@ -40,3 +48,5 @@
 [4]:http://www.webservicex.net/
 
 [5]:http://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/
+
+[7]:http://code.org/
