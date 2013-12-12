@@ -20,15 +20,25 @@
 
 - [**Extra Reading** SOAP vs REST.][3]
 
+
+- Copy the web service link from the website
+
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_01.PNG "Adding a webservice")
+
+- Right click on refrences and choose Add Service Refrence.
 
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_02.PNG "Adding a webservice")
 
+- Paste the link , click go , and dont forget the name of the namespace in the buttom of window. 
+
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_03.PNG "Adding a webservice")
+- Open the app.config file and read the names of the available endpoints.
 
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_04.PNG "Adding a webservice")
 
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_05.PNG "Adding a webservice")
+
+- Use the name of the endpoint when creating an instance of the web service client.
 
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_06.PNG "Adding a webservice")
 
