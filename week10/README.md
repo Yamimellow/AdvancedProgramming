@@ -20,6 +20,20 @@
 
 - [**Extra Reading** SOAP vs REST.][3]
 
+![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_01.PNG "Adding a webservice")
+
+![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_02.PNG "Adding a webservice")
+
+![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_03.PNG "Adding a webservice")
+
+![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_04.PNG "Adding a webservice")
+
+![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_05.PNG "Adding a webservice")
+
+![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/add_web_refrence_06.PNG "Adding a webservice")
+
+
+
 
 
 ##Recap on Data Structures[theory]
@@ -29,15 +43,6 @@
 - HashTable
 - [**Extra Reading** big O notation.][5]
 
-
-##Collections
-- What are collections [theory]
-- Generics[theory]
-- Use the basic data structurs - Collections from C# [practical]
-	- List
-	- Stack
-	- Queue
-	- Dictionary
 
 
 ![alt text](https://raw.github.com/TheNightPhoenix/AdvancedProgramming/master/week10/map.png "Class Mind Map")
