@@ -2,8 +2,11 @@
 
 Advanced Programming examples files used in class .
 
-### [Sheets][2] - **Last Update:8/11/2013**
+### [Please Submit This Course Feedback Form][5] 
+###It was a fun course , good luck in your exams. :)
 
+
+### [Sheets][2] - **Last Update:8/11/2013**
 
 
 ###[To submit anonymous suggestions/complaints][1]
@@ -38,3 +41,5 @@ abdallah 'dot' hodieb 'at' gmail 'dot' com
 [1]: https://docs.google.com/forms/d/1j2KjST47SQcUPX7upCgp4YfHb0TbnDo9byv5yPD0BL0/viewform
 
 [2]: https://docs.google.com/document/d/17JAT2XYERDbzCePRyWd_mXOk7ZK8mpG0KDxjpWULzTs/edit?usp=sharing
+
+[5]: http://bit.ly/AdvProgE
